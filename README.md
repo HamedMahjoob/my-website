@@ -1,2 +1,2 @@
 # my-website
-This is an introductory website !
+This is a simple introductory website !
